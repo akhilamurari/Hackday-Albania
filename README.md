@@ -8,7 +8,5 @@ In vulhub you can practice your hacking skills through CTF (CAPTURE THE FLAG)
 * This challenge is all about cracking ubuntu os and finding the flag, There are different approaches to capture the flag this is the one method among them.<br/>
 link to Download the virtual box .ova file : [ubuntu](https://www.vulnhub.com/entry/hackday-albania,167/)
 
-### It is one of the approach so crack the virtual box<br/>
-#### After downloading the .ova file follow the below steps to capture the Flag:
 
-![alt text](C:/Users/AKHILA/Pictures/Screenshots/1.png/200/200)
+
